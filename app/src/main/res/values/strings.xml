@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">taller1</string>
+    <string name="titulo">XYZ</string>
+    <string name="calculadora">Calculadora de Presupuesto</string>
+    <string name="hombre">Hombre</string>
+    <string name="cantidad">Cantidad</string>
+    <string name="mujer">Mujer</string>
+    <string name="sexo">Sexo</string>
+    <string name="tipo">Tipo</string>
+    <string name="marca">Marca</string>
+    <string name="tipoZapatilla">Zapatilla</string>
+    <string name="tipoClasico">Clasico</string>
+    <string name="nike">Nike</string>
+    <string name="adidas">adidas</string>
+    <string name="puma">Puma</string>
+    <string name="error">Digite Numero</string>
+    <string name="calcular">Calcular</string>
+    <string name="limpiar">Limpiar</string>
+    <array name="sexo">
+        <item>@string/hombre</item>
+        <item>@string/mujer</item>
+    </array>
+    <array name="tipo">
+        <item>@string/tipoZapatilla</item>
+        <item>@string/tipoClasico</item>
+    </array>
+    <array name="marca">
+        <item>@string/nike</item>
+        <item>@string/adidas</item>
+        <item>@string/puma</item>
+    </array>
+
+
+
+</resources>
